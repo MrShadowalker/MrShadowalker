@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 ## Welcome, I'm Chen Zihao the Shadowalker. 
 ## Java Developer 👨‍💻
 
-[![](https://img.shields.io/badge/LinkedIn-ashrafkm-blue)](https://www.linkedin.com/in/shadowalker/)
-[![](https://img.shields.io/badge/Gmail-ashrafkm010%40gmail.com-red)](mailto:mr.shadowalker@foxmail.com)
+[![](https://img.shields.io/badge/LinkedIn-shadowalker-blue)](https://www.linkedin.com/in/shadowalker/)
+[![](https://img.shields.io/badge/Foxmail-mr.shadowalker%40foxmail.com-red)](mailto:mr.shadowalker@foxmail.com)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
@@ -38,10 +38,10 @@ const Shadowalker = {
         devOps: ["PinganCloud", "Nginx", "MQ"],
         misc: ["Firebase", "Socket.IO"]
     },
-    architecture: ["Springcloud", "Springboot", "Struts"],
-    blog: [chenzihao.me](http://chenzihao.me)
+    architecture: ["Springcloud", "Springboot", "Struts"]
 }
 ```
 
 ---
+blog: [chenzihao.me](http://chenzihao.me)
 ⭐️ From [@MrShadowalker](https://github.com/MrShadowalker)
