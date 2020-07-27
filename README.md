@@ -39,7 +39,7 @@ const Shadowalker = {
         misc: ["Firebase", "Socket.IO"]
     },
     architecture: ["Springcloud", "Springboot", "Struts"],
-    blog: [chenzihao.me](chenzihao.me)
+    blog: [chenzihao.me](http://chenzihao.me)
 }
 ```
 
