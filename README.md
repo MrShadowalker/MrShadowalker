@@ -14,3 +14,33 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+
+## Welcome, I'm Chen Zihao the Shadowalker. 
+## Java Developer 👨‍💻
+
+[![](https://img.shields.io/badge/LinkedIn-ashrafkm-blue)](https://www.linkedin.com/in/shadowalker/)
+[![](https://img.shields.io/badge/Gmail-ashrafkm010%40gmail.com-red)](mailto:mr.shadowalker@foxmail.com)
+
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+const Shadowalker = {
+    nickname: "Shadowalker" | "David",
+    askMeAbout: ["Java Dev", "Cyber Security", "Blockchain"],
+    technologies:{
+        backEnd: ["Java", "Python"],
+        fronEnd: ["Vue"],
+        database: ["mySql","Redis"],
+        devOps: ["PinganCloud", "Nginx", "MQ"],
+        misc: ["Firebase", "Socket.IO"]
+    },
+    architecture: ["Springcloud", "Springboot", "Struts"],
+}
+```
+
+---
+⭐️ From [@MrShadowalker](https://github.com/MrShadowalker)
