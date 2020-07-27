@@ -34,9 +34,9 @@ const Shadowalker = {
     technologies:{
         backEnd: ["Java", "Python"],
         fronEnd: ["Vue"],
-        database: ["mySql","Redis"],
+        database: ["mySql", "Redis"],
         devOps: ["PinganCloud", "Nginx", "MQ"],
-        misc: ["Firebase", "Socket.IO"]
+        misc: ["Blockchain", "Big Data"]
     },
     architecture: ["Springcloud", "Springboot", "Struts"]
 }
