@@ -43,6 +43,6 @@ const Shadowalker = {
 ```
 
 ---
-myBlog: [chenzihao.me](http://chenzihao.me)
+visit my blog @[chenzihao.me](http://chenzihao.me)
 
 ⭐️ me [@MrShadowalker](https://github.com/MrShadowalker)
