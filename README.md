@@ -45,4 +45,4 @@ const Shadowalker = {
 ---
 visit my blog @[chenzihao.me](http://chenzihao.me)
 
-⭐️ me [@MrShadowalker](https://github.com/MrShadowalker)
+⭐️ my Github @[MrShadowalker](https://github.com/MrShadowalker)
