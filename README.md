@@ -34,14 +34,15 @@ const Shadowalker = {
     technologies:{
         backEnd: ["Java", "Python"],
         fronEnd: ["Vue"],
-        database: ["mySql", "Redis"],
-        devOps: ["PinganCloud", "Nginx", "MQ"],
-        misc: ["Blockchain", "Big Data"]
+        database: ["MySql", "Redis"],
+        devOps: ["PinganCloud", "Nginx", "MQ", "DJSS"],
+        misc: ["Blockchain", "Cyber Security"]
     },
     architecture: ["Springcloud", "Springboot", "Struts"]
 }
 ```
 
 ---
-blog: [chenzihao.me](http://chenzihao.me)
-⭐️ From [@MrShadowalker](https://github.com/MrShadowalker)
+myBlog: [chenzihao.me](http://chenzihao.me)
+
+⭐️ me [@MrShadowalker](https://github.com/MrShadowalker)
