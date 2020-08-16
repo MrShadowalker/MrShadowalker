@@ -29,17 +29,18 @@ Here are some ideas to get you started:
 
 ```javascript
 const Shadowalker = {
-    nickname: "Shadowalker" | "David",
-    askMeAbout: ["Java Dev", "Cyber Security", "Blockchain"],
-    technologies:{
-        backEnd: ["Java", "Python"],
-        fronEnd: ["Vue"],
-        database: ["MySql", "Redis"],
-        devOps: ["PinganCloud", "Nginx", "MQ", "DJSS"],
-        misc: ["Blockchain", "Cyber Security"]
+    nickname : "Shadowalker" | "David",
+    about : ["Java Dev", "Cyber Security", "Blockchain"],
+    technologies : {
+        backEnd : ["Java"],
+        database : ["MySql", "Redis"],
+        middleware : ["MQ", "Tomcat", "Weblogic"],
+        config : ["Apollo"],
+        misc : ["Blockchain", "Security"]
     },
-    architecture: ["Springcloud", "Springboot", "Struts"]
+    Architecture : ["SpringCloud", "SpringBoot", "MyBatis", "Struts"]
 }
+
 ```
 
 ---
