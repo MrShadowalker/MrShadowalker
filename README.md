@@ -33,9 +33,9 @@ const Shadowalker = {
     about : ["Java Dev", "Cyber Security", "Blockchain"],
     technologies : {
         backEnd : ["Java"],
-        database : ["MySql", "Redis"],
-        middleware : ["MQ", "Tomcat", "Weblogic"],
-        config : ["Apollo"],
+        database : ["MySql", "Oracle", "Hive", "TiDB"],
+        middleware : ["RocketMQ", "Kafka"],
+        distributed : ["Redis", "zookeeper"],
         misc : ["Blockchain", "Security"]
     },
     Architecture : ["SpringCloud", "SpringBoot", "MyBatis", "Struts"]
