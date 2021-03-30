@@ -33,7 +33,7 @@ const Shadowalker = {
     about : ["Java Dev", "Cyber Security", "Blockchain"],
     technologies : {
         backEnd : ["Java"],
-        database : ["MySql", "Oracle", "Hive", "TiDB"],
+        database : ["MySQL", "Oracle", "Hive", "TiDB"],
         middleware : ["RocketMQ", "Kafka"],
         distributed : ["Redis", "zookeeper"],
         misc : ["Blockchain", "Security"]
