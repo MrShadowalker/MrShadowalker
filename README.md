@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-## Welcome, I'm Chen Zihao the Shadowalker. 
+## Welcome, I'm Chen Zihao aka Shadowalker. 
 ## Java Developer 👨‍💻
 
 [![](https://img.shields.io/badge/LinkedIn-shadowalker-blue)](https://www.linkedin.com/in/shadowalker/)
@@ -34,11 +34,11 @@ const Shadowalker = {
     technologies : {
         backEnd : ["Java"],
         database : ["MySQL", "Oracle", "Hive", "TiDB"],
-        middleware : ["RocketMQ", "Kafka"],
+        middleware : ["RocketMQ", "kafka"],
         distributed : ["Redis", "zookeeper"],
         misc : ["Blockchain", "Security"]
     },
-    Architecture : ["SpringCloud", "SpringBoot", "MyBatis", "Struts"]
+    Architecture : ["SpringCloud", "SpringBoot", "MyBatis", "SpringCloud Alibaba"]
 }
 
 ```
